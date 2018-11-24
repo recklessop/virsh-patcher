@@ -23,7 +23,7 @@ Install [virshpatcher](https://aur.archlinux.org/packages/virshpatcher/) from th
 ### Debian / Ubuntu
 
 ```
-sudo apt-get install python-libvirt
+sudo apt-get install python-libvirt libvirt-dev
 sudo pip install -U https://github.com/PassthroughPOST/virsh-patcher/archive/master.zip
 ```
 
